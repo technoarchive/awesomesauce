@@ -217,7 +217,7 @@
 		"ControlName"								"CExLabel"
 		"fieldName"									"AmmoInReserve"
 		"xpos"	    		         				"-86"
-		"ypos"	    		         				"7"
+		"ypos"	    		         				"-6"
 		"zpos"										"7"
 		"wide"										"150"
 		"tall"										"79"

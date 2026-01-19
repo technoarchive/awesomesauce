@@ -145,7 +145,7 @@
 
 	"CurrencyStatusPanel"
 	{
-		"xpos"										"c-204"
+		"xpos"										"c-176"
 		"xpos_minmode"								"c-204"
 		"ypos"										"rs1"
 		"ypos_minmode"								"rs1"

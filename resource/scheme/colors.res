@@ -8,10 +8,10 @@
 	
 		"Health Numbers"									"255 255 255 255"
 
-		"Health Buff"										"128 195 255 255"	//128 195 255 255	//128 195 255 255
-		"Health Buff Target"								"128 195 255 255"
-		"Health Buff Spec"									"128 195 255 255"
-		"Health Buff Killer"								"128 195 255 255"
+		"Health Buff"										"255 232 117 255"	//255 232 117 255	//255 232 117 255
+		"Health Buff Target"								"255 232 117 255"
+		"Health Buff Spec"									"255 232 117 255"
+		"Health Buff Killer"								"255 232 117 255"
 
 		"Health Hurt"										"255 128 128 255"
 		"Health Hurt Target"								"255 128 128 255"
@@ -27,15 +27,15 @@
 		"Ammo No Clip Low"									"255 128 128 255"
 
 		"Ubercharge"										"255 255 255 255"
-		"Ubercharge Full"									"128 195 255 255"
+		"Ubercharge Full"									"255 232 117 255"
 
 		"Extra Shadow"										"10 10 10 255"
 
 		"Heal Numbers"										"0 255 0 255"
 		"Last Damage Done"									"255 255 255 255"
 
-		"Menu Labels"										"128 195 255 255"
-		"Class Selection"									"128 195 255 255"
+		"Menu Labels"										"255 232 117 255"
+		"Class Selection"									"255 232 117 255"
 
 		"m0reBlue"		"0 120 201 255"		"m0reRed"		"255 128 128 255"	// not in use
 
@@ -43,11 +43,11 @@
 		// OTHER COLORS
 		//=============================================================================
 
-		"Orange"											"128 195 255 255"
-		"OrangeDim"											"128 195 255 255"
-		"LightOrange"										"128 195 255 255"
+		"Orange"											"255 232 117 255"
+		"OrangeDim"											"255 232 117 255"
+		"LightOrange"										"255 232 117 255"
 		"GoalOrange"										"255 133 0"
-		"TFOrange"											"128 195 255 255"
+		"TFOrange"											"255 232 117 255"
 		"Purple"											"137 69 99 255"
 
 		"QuestGold"											"208 147 75 255"
@@ -74,7 +74,7 @@
 		"Yellow"											"255 255 255 255"
 		"TransparentYellow"									"255 255 255 255"
 		"BrightYellow"										"235 235 50 255"
-		"GreenSolid"		 								"128 195 255 255"
+		"GreenSolid"		 								"255 232 117 255"
 
 		"FooterBGBlack"										"31 32 33 255"
 
@@ -204,21 +204,21 @@
 		"QualityColorCollectors_GreyedOut"					"60 0 0 255"
 		"QualityColorPaintkitWeapon_GreyedOut"				"60 60 60 255"
 
-		"SaleGreen"											"128 195 255 255"
+		"SaleGreen"											"255 232 117 255"
 
-		"LightRed"											"128 195 255 255"
-		"LighterRed"										"128 195 255 255"
+		"LightRed"											"255 232 117 255"
+		"LighterRed"										"255 232 117 255"
 		"LighterDarkBrown"									"72 71 70 255"
 		"DarkBrown"											"46 43 42 255"
 
 		"UpgradeDefaultFg"									"255 255 255 255"
 		"UpgradeDefaultBg"									"31 32 33 255"
 		"UpgradeArmedFg"									"255 255 255 255"
-		"UpgradeArmedBg"									"128 195 255 255"
+		"UpgradeArmedBg"									"255 232 117 255"
 		"UpgradeDepressedFg"								"31 32 33 255"
-		"UpgradeDepressedBg"								"128 195 255 255"
+		"UpgradeDepressedBg"								"255 232 117 255"
 		"UpgradeSelectedFg"									"31 32 33 255"
-		"UpgradeSelectedBg"									"128 195 255 255"
+		"UpgradeSelectedBg"									"255 232 117 255"
 		"UpgradeDisabledFg"									"31 32 33 255"
 		"UpgradeDisabledBg"									"0 0 0 255"
 	}

@@ -73,7 +73,7 @@
 	{
 		"ControlName" "ImagePanel" "fieldName" "cross"
 		"xpos" "cs-0.5" "ypos" "cs-0.5" "zpos" "100"	"wide" "180" "tall" "180" "drawcolor" "255 255 255 255"
-		"visible" "1" "enabled" "1" "scaleImage" "1"	"image" "replay/thumbnails/crosshairs/outsidew"
+		"visible" "0" "enabled" "1" "scaleImage" "1"	"image" "replay/thumbnails/crosshairs/outsidew"
 	}
 	"cross1"
 	{
@@ -85,7 +85,7 @@
 	{
 		"ControlName" "ImagePanel" "fieldName" "cross2"
 		"xpos" "cs-0.5" "ypos" "cs-0.5" "zpos" "100"	"wide" "140" "tall" "140"
-		"visible" "1" "enabled" "1" "scaleImage" "1"	"image" "replay/thumbnails/crosshairs/dot" "drawcolor" "0 0 0 255"
+		"visible" "0" "enabled" "1" "scaleImage" "1"	"image" "replay/thumbnails/crosshairs/dot" "drawcolor" "0 0 0 255"
 	}
 
 	"a"

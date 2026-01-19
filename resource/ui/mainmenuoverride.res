@@ -1,3 +1,4 @@
+#base "vguipreload.res"
 #base "../../resource/vtfpreload.res"
 #base "vtfpreload.res"
 
